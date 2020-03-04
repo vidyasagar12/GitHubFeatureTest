@@ -16,7 +16,7 @@ namespace GitHubFeatureTest.Controllers
         }
         public ActionResult Index1()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home Page sddg";
 
             return View();
         }
