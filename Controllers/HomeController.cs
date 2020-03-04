@@ -14,5 +14,11 @@ namespace GitHubFeatureTest.Controllers
 
             return View();
         }
+        public ActionResult Index1()
+        {
+            ViewBag.Title = "Home Page";
+
+            return View();
+        }
     }
 }
